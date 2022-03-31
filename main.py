@@ -18,7 +18,7 @@ class BaseNickName(BaseModel):
     nickname: str
 
 header={
-     "X-Riot-Token":"RGAPI-70a2ae76-9056-4d7b-b6b7-a06dd5346efb"
+     "X-Riot-Token":"Insira a API-KEY aqui"
 }
 
 my_secret = 'dad23123qwdasd'
